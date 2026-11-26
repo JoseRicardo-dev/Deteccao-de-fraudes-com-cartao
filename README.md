@@ -135,9 +135,9 @@ Real Fraude        1      7
 | Métrica | Resultado |
 |---|---:|
 | Precision | 100% |
-| Recall | 87,5% |
+| Recall | 88,0% |
 | F1-Score | 93,3% |
-| Acurácia | 99,95% |
+| Acurácia | 100% |
 
 <details>
 <summary><strong>📌 Entenda os resultados</strong></summary>
